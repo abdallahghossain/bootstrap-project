@@ -1,0 +1,223 @@
+.section{
+    position: relative;
+    z-index: 3;
+    background-image: url("../img/bg-non.png")  ;
+    width: 100%;
+    height: 1080px;
+    
+
+
+}
+.nav_item{
+color: white;
+}
+
+
+.logo1{
+    width:117px;
+    height: 136px;
+}
+.botton{
+    width: 148px;
+     height: 44px;
+     border-radius: 5px;
+}
+
+.arrow{
+    color: white;
+    background-color: #4A1714;
+    border-radius:8%;
+}
+.arrow:hover{
+    color: white;
+    background-color: #4A1714;
+}
+.submitbtn1{
+    background-color: #C89B2C;
+    color: white;
+}
+.submitbtn2{
+    color: black;
+    background-color: white;
+    border: black;
+}
+.submitbtn2:hover{
+    color: white;
+    background-color: rgb(105, 105, 105);
+}
+.item{
+    text-align: center;
+    color: white;
+    padding: 50px;
+
+}
+.list ul{
+   list-style-type: none; 
+}
+.list ul li{
+    box-shadow: 0px 1px 7px -2px black;
+}
+.img{
+    background-image: url("../img/worker.png");
+    width: 75%;
+    background-repeat: no-repeat;
+    border-radius: 8%;
+    margin-top: 50px;
+}
+.box{
+     
+    border-radius: 8%;
+    box-shadow: 0px 1px 7px -2px black;
+    height: 320px;
+    width: 236px;
+    margin-top : 50px;
+    
+}
+.box1{
+     
+    border-radius: 8%;
+    box-shadow: 0px 1px 7px -2px black;
+    height: 320px;
+    width: 236px;
+    margin-top : 50px;
+    background-color: white;
+}
+.imgcity{
+    background-image: url("../img/img1.png");
+    width: 320px;
+    height: 240px;
+}
+
+.box2{
+     
+    border-radius: 4%;
+    box-shadow: 0px 1px 7px -2px black;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.box3{
+     
+    border-radius: 4%;
+    box-shadow: 0px 1px 7px -2px black;
+    height: 294px;
+    width: 632px;
+}
+.box4{
+     
+    border-radius: 8%;
+    box-shadow: 0px 1px 7px -2px black;
+    height: 263px;
+    width: 320px;
+    margin: 10px;
+}
+
+.discover{
+    background-color: white;
+    color: #4A1714;
+    border: 2px solid #4A1714;
+
+}
+.discover:hover{
+    background-color:#4A1714 ;
+    color:white;
+    border: 2px #4A1714;
+
+
+}
+.secondimg{
+    width: 30px;
+    height: 30px;
+}
+.imgcity{
+width: 100px;
+height: 60px;
+}
+
+form{
+    border-radius: 1%;
+    box-shadow: 0px 1px 4px -4px rgb(167, 167, 167);
+    height: 630px;
+    width: 520px;
+    background-color:  rgba(233, 233, 233, 0.929);
+    
+ 
+}
+input{
+  box-shadow:0px 1px 4px -4px black ;width: 70%;
+}
+.submit{
+    background-color: #C89B2C;
+    color: white;
+    width: 30%;
+    height: 40px;
+    border-radius: 0.5rem;
+    border: solid #C89B2C 1px ;
+}
+.map{
+    width: 700px;
+    height: 630px;
+}
+footer{
+    background-color: #131D24;
+    border-radius: 2rem;
+    color: white;
+}
+.list2 li{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.list2 li a{
+    color: white;
+    list-style-type: none;
+}
+.icon{
+color: #C89B2C;
+}
+a{
+    text-decoration: none;
+}
+
+.img2{
+    background-image: url("../img/bg-radius.png");
+    width: 100%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*first button
+.size-app{
+    width: 160px;
+    height: 60px;
+    margin: -11px;
+}
+.border-app{
+    border-radius: 7px;
+}
+
+/*last button
+.size-app2{
+    width: 125px;
+    height: 45px;
+    margin: -11px;
+}
+*/
